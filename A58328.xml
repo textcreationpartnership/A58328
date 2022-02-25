@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions by way of answer to a sermon preached by Dr. Thomas Kenne, Lord Bishop of Bath and Wells, in the Cathedral Church of Bath, on Ascension-Day last, being the fifth day of May, 1687</title>
+            <author>Reed, John, Father.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58328</idno>
+            <idno type="STC">Wing R665</idno>
+            <idno type="STC">ESTC R36704</idno>
+            <idno type="EEBO-CITATION">15987670</idno>
+            <idno type="OCLC">ocm 15987670</idno>
+            <idno type="VID">104684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions by way of answer to a sermon preached by Dr. Thomas Kenne, Lord Bishop of Bath and Wells, in the Cathedral Church of Bath, on Ascension-Day last, being the fifth day of May, 1687</title>
+                  <author>Reed, John, Father.</author>
+               </titleStmt>
+               <extent>[2], 28, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to John Reed.</note>
+                  <note>Dedication signed: F.J.R.C.J.</note>
+                  <note>Advertisement: [2] p. bound at end.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ken, Thomas, 1637-1711.</term>
+               <term>Catholic Church --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104684:1"/>
+            <p>ANIMADVERSIONS By way of ANSWER TO A SERMON Preached by D<hi rend="sup">r</hi>. <hi>THOMAS KENNE,</hi> Lord Biſhop of BATH and WELLS; In the Cathedral Church of <hi>BATH.</hi>
+            </p>
+            <p>On <hi>ASCENSION-DAY</hi> laſt, Being the Fifth Day of <hi>May,</hi> 1687.</p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathaniel Thompſon</hi> at the Entrance into the <hi>Old Spring-Garden</hi> near <hi>Charing-Croſs,</hi> 1687.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104684:2"/>
+            <pb facs="tcp:104684:2"/>
+            <head>TO THE MOST SACRED MAJESTY OF JAMES the II. KING of <hi>England, Scotland, France,</hi> and <hi>Ireland.</hi> Defender of the Faith, <hi>&amp;c.</hi>
+            </head>
+            <p>THIS little Treatiſe (moſt Gracious and Dread So<g ref="char:EOLhyphen"/>vereign,) was occaſion'd by a Sermon Preach'd the laſt <hi>Aſcention-Day,</hi> by a Biſhop of the <hi>Church</hi> of <hi>England,</hi> whoſe Tal<g ref="char:EOLhyphen"/>lent
+<pb facs="tcp:104684:3"/>
+was ſo much commended, that I was no leſs curious than deſirous to hear him: And ſo I did with atten<g ref="char:EOLhyphen"/>tion. I confeſs, I am no competent Author to faſten an Opinion of his Lordſhip on any; yet being not at all pleaed with his Doctrine, I gave my beſt Friends the faithfulleſt report I cou'd of the chiefeſt Points of his Diſcourſe. His Lordſhip I own, is Oratour enough, and was ſufficiently moderate for a great part of his Ser<g ref="char:EOLhyphen"/>mon, till at last he flew to <hi>Contro<g ref="char:EOLhyphen"/>verſies</hi> nothing material to his Text, and much leſs Conſonant to good Do<g ref="char:EOLhyphen"/>ctrine. Then I was reſolved to have a ſharp Eye after him. Sermon be<g ref="char:EOLhyphen"/>ing done, immediately I Recorded
+<pb facs="tcp:104684:3"/>
+his chiefeſt Errours, and endeavour'd at leaſure to reduce them to the beſt and eaſieſt method that was poſ<g ref="char:EOLhyphen"/>ſible for me.</p>
+            <p>May it therefore pleaſe Your moſt Sacred Majeſty to countenance this little Scroul, in hopes that under Your Gracious Protection it may get the Credit to be worth the Reading. I am moſt certainly ſure it can never be ſet forth to the Publick advan<g ref="char:EOLhyphen"/>tage of <hi>Souls,</hi> better than by Dedi<g ref="char:EOLhyphen"/>cating it to a <hi>KING,</hi> who has done more in one day for God's Glory, and the propagation of the <hi>Chriſtian Faith,</hi> than moſt of the Chriſtian Kings have done in the whole courſe of their
+<pb facs="tcp:104684:4"/>
+Lives. It is well known that He has truly a Paternal Breaſt to all His Subjects, and moſt particularly to them, that profeſs any Zeal towards the Converſion of <hi>Souls,</hi> having this Sentence of <hi>St. Denis</hi> deeply Engra<g ref="char:EOLhyphen"/>ven in His Royal Heart: <hi>Divino<g ref="char:EOLhyphen"/>rum Diviniſſimum eſt co-operari Deo in ſalutem animarum.</hi> The Di<g ref="char:EOLhyphen"/>vineſt of all Divine things is to co<g ref="char:EOLhyphen"/>operate with God for the ſalvation of <hi>Souls.</hi>
+            </p>
+            <p>Now then, (Dread <hi>Sir,</hi>) I Conſe<g ref="char:EOLhyphen"/>crate my ſelf and this little Paper together with all the Faculties of my <hi>Soul</hi> and <hi>Body</hi> to Your moſt <hi>Sacred Majeſties Spiritual</hi> and <hi>Temporal
+<pb facs="tcp:104684:4"/>
+Service,</hi> for I never deſire to live longer, than I am able to ſerve Your <hi>Self,</hi> and Your Royal Family. And ſhall conclude with this hearty Ad<g ref="char:EOLhyphen"/>dreſs to Almighty God, that as he has most Miraculouſly preſerv'd Your Royal Perſon from ſo many Eminent, Evident, and hidden Dan<g ref="char:EOLhyphen"/>gers both on Sea and Land, Abroad and at Home, and ſettled Your Majesty in ſpite of Fate, on the Throne of Your Royal Anceſtors, ſo He may ſettle Your <hi>Majeſty</hi> and Your Royal <hi>Conſort</hi> on a Throne of Glory in Heaven, after living a full Century on years in all Proſperity on Earth, to the perfect Converſion of all Your Subjects. This with the
+<pb facs="tcp:104684:5"/>
+bleſsing of a moſt Hopeful Prince, who ſhall perpetuate Your Royal Names to the Worlds end, ſhall be the conſtant Wiſhes, and daily Prayers of,</p>
+            <closer>
+               <salute>Dread Sovereign,</salute>
+               <signed>Your Majeſties moſt Dutifully Obedient Servant, and moſt Loyal <hi>Iriſh</hi> Subject <hi>F.J.R. C.J.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:104684:5"/>
+            <head>TO THE COURTEOUS READER.</head>
+            <p>IT happened (Courteous Reader,) that I have been lately intreated by one of my beſt Friends to go hear a Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Biſhop Preach: I confeſs, I had no great mind to go; yet to pleaſe my Friend, and (may be) yield ſomething to curioſity, I went. But ſeeing a Chriſtian Prelate in the Pulpit, be<g ref="char:EOLhyphen"/>gin (as I thought) a Chriſtian Sermon, and omit the characterical Sign of a Chriſtian, I was much aſtoniſhed at ſuch an odd ſight, being the firſt Preacher (to the beſt of my Memory) that ever I ſaw begin a Sermon without making the Sign of the Croſs.</p>
+            <p>
+               <pb facs="tcp:104684:6"/>To this you will anſwer, that in the Church of <hi>England</hi> they do not uſually make the Sign of the Croſs, contenting themſelves to make it once for all, <hi>Viz.</hi> When they are Baptized, but is that the Cuſtom as well with Proteſtants, as with all other Diſſenters? Yes, well then, I ſay that it is a very ill Cuſtom, which can never be otherwiſe, then a moſt ſcandalous practiſe: For my part, I declare I was mightily ſcandali<g ref="char:EOLhyphen"/>zed to ſee one, that pretends to be a Chriſtian-Teacher, begin to Preach, and omit the Sign of a Chriſtian. This with his ill Doctrine made me obſerve him narrowly, and ſift thoroughly all his Diſcourſe, and endeavour to refute his chiefeſt Errours, as you will ſee, if you be pleaſed to read this following Treatiſe. But this Adver<g ref="char:EOLhyphen"/>tiſement is chiefly to ſhew that the practical omiſſion of uſing the Sign of the Croſs, is a practical contradiction as well of the holy Bible, as of the Primitive and modern Practice of the true Church of Chriſt. But before I enter into any poſitive Proof, either of holy Scripture, or Antiquity, I think it expedient to take away all doubts and ſcruples of the lawfulneſs of this holy Sign: and thus <hi>I</hi> argue. That practice can never be unlawful in it ſelf, which both
+<pb facs="tcp:104684:6"/>
+Parties own to be once ſo lawful, that it is againſt the Law of God to omit it: But both <hi>Roman Catholicks,</hi> and <hi>Proteſtants</hi> do own, that it is againſt the Law of Chriſt to omit the Sign of the Croſs at the actual adminiſtration of the Sa<g ref="char:EOLhyphen"/>crament of Baptiſm; <hi>Ergo,</hi> the conſtant practiſe thereof muſt needs be lawful, <hi>Nam quod ex natura rei ſemel eſt licitum ſemper eſt licitum,</hi> for there is nothing leſs alterable than the nature of a thing, which in Schools is called <hi>Quiditas rei,</hi> that is, the very Eſſence of a thing, which can<g ref="char:EOLhyphen"/>not be changed without deſtroying the thing it ſelf: None therefore can deny the conſtant uſe of the Croſs to be lawful, ſeeing all confeſs it to be once abſolutely neceſſary, <hi>Viz.</hi> In the actual Adminiſtration of the Sacrament of Bap<g ref="char:EOLhyphen"/>tiſm: ſo that, whoever teacheth the contrary, may ſee his own judgement in St. <hi>Paul,</hi> 3. <hi>Chap.</hi> to the <hi>Phillip.</hi> 18. <hi>v. Quos ſaepe dicebam vobis, &amp; nunc flens dico, inimicos Crucis Christi, quorum Deus venter eſt finis interitus.</hi> For many walk of whom <hi>I</hi> have told you often, and now tell you even weeping, that they are the Enemies of the Croſs of Chriſt, whoſe end is deſtruction, whoſe God is their belly.</p>
+            <p>
+               <pb facs="tcp:104684:7"/>Conſider ſeriouſly this paſſage, and beware never to deſpiſe the Sign of the Croſs; other<g ref="char:EOLhyphen"/>wiſe you will act directly againſt the expreſs word of God: As you will ſee in what follow<g ref="char:EOLhyphen"/>eth. Read, <hi>I</hi> pray, the 7th. of <hi>Revelations,</hi> 3 <hi>v.</hi> Where one Angel ſaid to four other An<g ref="char:EOLhyphen"/>gels <hi>(hurt not the Earth, neither the Sea, nor the Trees, till we have ſigned the Servants of our God in their Foreheads.)</hi> Read again the 10th. <hi>Chap.</hi> of St. <hi>Mark,</hi> 16 <hi>Verſ. And he took them, and bleſ<g ref="char:EOLhyphen"/>ſed them.)</hi> The ſame is proved alſo out of St. <hi>Luke</hi> 24th. <hi>Chap.</hi> 50. <hi>Verſ. And he led them out as far as to</hi> Bethany, <hi>and he lifted up his hands, and bleſſed them.)</hi> You ſee therefore, that bleſſing, and ſigning with the Croſs are founded on holy Scri<g ref="char:EOLhyphen"/>pture,</p>
+            <p>That it was the Primitive practice of the true Church, uſed in all Ages, ſince the Paſſion of Chriſt, cannot be denied. I call to witneſs all the Croſſes that ever have been Erected in High<g ref="char:EOLhyphen"/>ways, and on Eminent places, ſome by the Apoſtles, ſome by their Succeſſors, others by devout Lay-men, and all by the Authority and Example of the Church: Witneſs that great Croſs found not many Ages ago in the <hi>Indies,</hi> where St. <hi>Thomas</hi> the Apoſtle
+<pb facs="tcp:104684:7"/>
+Preached the Goſpel of Chriſt: Witneſs all the Crowned Heads of Chriſtian Kings, that are now, or ever have been in the World; witneſs, in fine, all the Church-Pinacles that ever were ſeen, as well in <hi>England,</hi> as in any other part of <hi>Chriſtendom.</hi> We ought not ſure to forget <hi>Chairing-Croſs,</hi> ſuppoſed by ma<g ref="char:EOLhyphen"/>ny to have been the richeſt of moſt Croſſes, after that on which our ſweet Redeemer has ſuf<g ref="char:EOLhyphen"/>fered. Now I leave to your own Judgement (Impartial Reader) to conſider the difference be<g ref="char:EOLhyphen"/>tween the Church, that Erected all of thoſe Mo<g ref="char:EOLhyphen"/>numents of Chriſtian Piety, and the pretended Church that levell'd all to the Ground, and en<g ref="char:EOLhyphen"/>deavour'd to bury the memory of Primitive Pie<g ref="char:EOLhyphen"/>ty, and ancient Devotion. Do not we find in Hiſtory that it was revealed from Heaven to the firſt Chriſtian Emperour, an <hi>Eng<g ref="char:EOLhyphen"/>liſh-man</hi> born, and his Mother an <hi>Engliſh-woman,</hi> alſo <hi>quod in hoc ſigno vinces</hi> (you will overcome in this ſign) and well it became him, for he was never aſhamed thereof, but ſhewed himſelf all his Life time, a true worſhipper of the Croſs; and for that he had always the better of his Ene<g ref="char:EOLhyphen"/>mies, both viſible, and inviſible; and it is well known, that all the true Worſhipers of the Croſs,
+<pb facs="tcp:104684:8"/>
+do the like. But ſome body will ſay, that I mi<g ref="char:EOLhyphen"/>ſtake in Proteſtants, that they are not at all ſuch Enemies to the Croſs, that many of them can very well abide a Crucifix in their Chambers, and pay to it due Reſpect and Veneration: And why not I pray, a <hi>Roman Catholick?</hi> Cannot he have the Spirit of diſcerning the Honour due to a Crucifix, as well as a Proteſtant? Sure that zealous Church of <hi>England</hi> Worſhipper of a Cru<g ref="char:EOLhyphen"/>cifix intends to perſwade the world, that what may be a reſpectful Ornament in his Chamber, muſt needs be a Golden Calf in that of a <hi>Roman Catholick,</hi> and why? Becauſe he ſuppoſes that He alone has the Spirit of diſcerning the Honour due to a Crucifix; let him ſhew me this in Scri<g ref="char:EOLhyphen"/>pture, otherwiſe I will ſhew him that he judge<g ref="char:EOLhyphen"/>eth moſt raſhly; for there can be no raſher judge<g ref="char:EOLhyphen"/>ment, than that of ones interiour, which is only known to God, <hi>ſcrutator cordium &amp; renum Deus;</hi> true or falſe Worwip muſt come from the inte<g ref="char:EOLhyphen"/>riour, witneſs theſe words of our Saviour, <hi>popu<g ref="char:EOLhyphen"/>lus hic labiis me honorat, cor autem eorum longe eſt a me: This People honour me with their Lips, hut their heart is far from me:</hi> You ſee then, that there is but God only, that knows their heart, beware therefore (gentle Reader) never to offer at being
+<pb facs="tcp:104684:8"/>
+Judge of that Court, wherein God only is Su<g ref="char:EOLhyphen"/>pream Judge, and each particular a ſub-altern-one, none knowing effectually what paſſeth in <hi>foro Conſcientiae,</hi> but God and himſelf; You muſt needs then be very weary how you judge, what you judge, and of whom you judge, for fear of being judged: It is but what we are commanded to obſerve in the Goſpel <hi>Nolite judicare, &amp; non judicabimini;</hi> do not judge, and you will not be judged: This is all the Advertiſement <hi>I</hi> have to give you (good Reader) before you begin to read the enſuing Treatiſe,</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="criticism">
+            <pb facs="tcp:104684:9"/>
+            <pb n="1" facs="tcp:104684:9"/>
+            <head>ANIMADVERSIONS By way of ANSWER TO A SERMON Preach'd by Doctor <hi>Thomas Kenne</hi> Lord Biſhop of <hi>BATH</hi> and <hi>WELLS</hi> In the Cathedral Church of <hi>Bath,</hi> On <hi>ASCENTION-DAY</hi> laſt; Being the <hi>Fitfh</hi> of <hi>May,</hi> 1687.</head>
+            <p>I Was honour'd, my Lord, with being one of your Auditors laſt <hi>Aſcention-day</hi> in the Afternoon at the Cathedral Church of <hi>Bath.</hi> Your Lordſhip, I own does not want the parts of an Orator, and of an Evangelical one too, had you but ſuck'd your Doctrine, (as St. <hi>John</hi> hath done) <hi>De Sacro Domi<g ref="char:EOLhyphen"/>nici pectoris fonte,</hi> that is to ſay, within the Boſom of his only true Spouſe on Earth, the <hi>Roman</hi> Catholick Church, Mother and Miſtreſs of all Viſible Churches. That you have not ſuck'd your Learning from the Breaſt of Chriſt in his True Church, I prove <hi>ex ore tuo.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:104684:10"/>To enter directly to the matter, I begin, my Lord, with your Text drawn out of the 47 <hi>Pſalm,</hi> 5. <hi>Ver.</hi> Aſcendit Deus in jubilo, <hi>God is gone up with a ſhout, the Lord with the ſound of a Trumpet.</hi> I remarked your Lordſhip ſweated hard to fit this Text more to the Typick aſcent of the Ark of Alliance from the houſe of <hi>Obededon</hi> to Mount <hi>Sion,</hi> than to the real aſſent of Jeſus Chriſt from Mount <hi>Olivet</hi> to the right hand of God the Father. You took ſo much pains in deſcribing to the leaſt circumſtance of the firſt, that you had not time enough to enlarge your ſelf much on the latter, tho' This was far more to your purpoſe then That: it was not want of time, for you were a full hour, and a half in Chair. All that I cou'd pick out of your tedious deſcription of the Ark, was, that when you com<g ref="char:EOLhyphen"/>par'd it to a long Cheſt with painted Cherubims much like to the Angels you Paint now adays: I thought your Church allow'd of no Angels to be Painted at all; But now that you ſpeak of them, you cannot deny but they were Painted, or Engraved on the Ark by Gods own Direction, God cou'd never give directions for Idolatry: You ſee then, my Lord, that to have a Crucifix, or Pi<g ref="char:EOLhyphen"/>cture of Saints, or Angels, and pay due reſpect to them, cannot be Idolatry, provided ſtill, that the Worſhip of <hi>Latria</hi> only due to God, be not given them, but a reſpe<g ref="char:EOLhyphen"/>ctive veneration, which we call <hi>Dulia</hi> for Saints and Angels and <hi>Hyper-Dulia</hi> for the bleſſed Virgin, Mother of God.</p>
+            <p>In the Second place, I took notice your Lordſhip thought it too too long, you were without giving a fling at the Popes Supremacy, to which you ſhew'd all aver<g ref="char:EOLhyphen"/>ſion imaginable, and that becauſe he is call'd Supream Spiritual Head of Chriſts Church on Earth.</p>
+            <p>We call his Holineſs, it is true, Supream, Spiritual and Viſible Head, Vicar of Jeſus Chriſt, and Succeſſor to
+<pb n="3" facs="tcp:104684:10"/>
+St. <hi>Peter,</hi> the firſt viſible Head our Saviour hath ordain<g ref="char:EOLhyphen"/>ed in his Church, and we have Scripture enough for calling him ſo (as you ſhall ſoon ſee) but you have none to the contrary.</p>
+            <p>I remember you ſaid, <hi>that Jeſus Chriſt was; and is the only ſpiritual Head of his Church.</hi> A little <hi>diſtinguo</hi> here, my Lord, may do well; Jeſus Chriſt is the on<g ref="char:EOLhyphen"/>ly Supream Spiritual and Inviſible Head of his Church as well Triumphant as Militant, <hi>Concedo:</hi> Jeſus Chriſt is the only Spiritual and Viſible Head of his Church Mili<g ref="char:EOLhyphen"/>tant, I deny, becauſe this Church being in it ſelf Spiri<g ref="char:EOLhyphen"/>tually Viſible, and Viſibly Spiritual, muſt needs have a Head proportionable to it in all degrees, otherwiſe it cou'd but appear a monſtrous Body, the Head and Mem<g ref="char:EOLhyphen"/>bers being of different Natures.</p>
+            <p>That it is not ſo, I prove out of the very words of Chriſt eſtabling his Church, and that drawn out of your own <hi>Engliſh</hi> Bible.</p>
+            <p>But give me leave, my Lord, to gloſs a little firſt on your own words, and you will ſee I will not forget my poſitive Proofs of Scripture. In the mean time you muſt needs know, I admir'd much your vehemency in proteſting againſt that Church which allows of any Viſible Spiritual Head; you flew to ſuch eagerneſs of Contradiction againſt this Spiritual Supremacy, that I thought ſure you had ſome ſolid authority to diſprove the pretended abuſe, till at laſt I found you had no ſuch Proof in Nature, only <hi>probare idem per idem, viz.</hi> that the Church had no ſuch Head at all, but a politick one, ſuch as King <hi>Saul</hi> was to the <hi>Jewiſh</hi> Church: This was <hi>gratis</hi> ſaid without the leaſt Proof of Scripture or Rea<g ref="char:EOLhyphen"/>ſon, which Circular way of Proof is to be exploded out of all Schools. But will you give me leave to tell
+<pb n="4" facs="tcp:104684:11"/>
+your Lordſhip, that the Bible cou'd afford a fitter Ex<g ref="char:EOLhyphen"/>ample to your purpoſe, then that of a King, reproved by God for his Preſumption in Church-authority; for all the World knows, that God Almighty abandon'd <hi>Saul,</hi> becauſe he preſumed (in <hi>Samuels</hi> abſence) to offer Sacrifice, which is a ſign he never intended to make him Head of the <hi>Jewiſh</hi> Church. But why did not your Lordſhip take a better example out of the 14th. <hi>Chap.</hi> of <hi>Gen.</hi> Where <hi>Melchiſedec</hi> King of <hi>Salem</hi> was migh<g ref="char:EOLhyphen"/>tily pleaſing to God for offering Bread and Wine in an action of Grace for <hi>Abrahams</hi> Victory over his Ene<g ref="char:EOLhyphen"/>mies? Here you may find one man King and Prieſt to<g ref="char:EOLhyphen"/>gether, for he is call'd in the ſelf-ſame place <hi>Sacerdos Dei Altiſſimi, The Prieſt of the higheſt God.</hi> You o<g ref="char:EOLhyphen"/>mitted him (I ſuppoſe) becauſe he is call'd <hi>Sacerdos;</hi> if he had been call'd <hi>Minister Dei Altiſſimi,</hi> ſure you would not miſs to make him Head of the Church of his Kingdom, and a Proteſtant Head too, ſeeing he of<g ref="char:EOLhyphen"/>fer'd the ſelf-ſame ſubſtance you offer now, <hi>viz</hi> Bread and Wine, the figure of the Fleſh and Blood of Jeſus Chriſt. But this very thing was able to hinder your Lordſhip from making uſe of <hi>Melchiſedeck's,</hi> example, for his Bread and Wine being own'd by all to have been the Type of the Sacrament we adore on our Al<g ref="char:EOLhyphen"/>tars, it cou'd but ſeem very ſtrange to your Flock, that the Son of God ſhou'd take ſo much pains in eſtabliſh<g ref="char:EOLhyphen"/>ing a Figure, that was ſo many Ages ago eſtabliſh'd already, and that by the appointment of God him<g ref="char:EOLhyphen"/>ſelf; and ſure no man of ſenſe cou'd miſs to find ſuch an eſtabliſhment of an <hi>idem per idem,</hi> contrary to rea<g ref="char:EOLhyphen"/>ſon, and much more to the infinite Prudence of an All-ſeeing God: for God and Nature have done nothing in vain: <hi>Deus &amp; natura nihil fecerunt fruſtra,</hi> which he muſt needs have done, if it be true what Proteſtants
+<pb n="5" facs="tcp:104684:11"/>
+ſay, that he left us barely the Figure of his moſt preci<g ref="char:EOLhyphen"/>ous Fleſh and Blood in Bread and Wine, having had the ſame Type already ſince the time of <hi>Abraham.</hi> But of this we will ſay more in its own place, now let us turn to the Church Supremacy, and ſee whether it be Civilly or Spiritually Eſtabliſh'd by Chriſt on Earth; and I will begin by preſſing home the matter to your Lordſhips own doors.</p>
+            <p>Tell me, I pray whether your power in <hi>Bath</hi> and <hi>Wells</hi> be Spiritual or Civil? Not Civil, for then you ſhou'd take your Rank amongſt the Lords Temporal in Parliament; your Lordſhip <hi>ergo,</hi> muſt own your ſelf to be Spiritual Head of your Flock; and it is ſo indeed, if any. What priviledge, I pray, can your private Dio<g ref="char:EOLhyphen"/>ceſs have of enjoying a viſible Spiritual Head, and not the whole Church? For it is more repugnant to Scri<g ref="char:EOLhyphen"/>pture, and Reaſon, that a private Biſhoprick ſhou'd have that bleſſing, which you deny to the Univerſal Church, then that the whole Church Hierarchically go<g ref="char:EOLhyphen"/>vern'd ſhou'd have a Spiritual Head, and that by the very Inſtitution of Chriſt. This I prove by Scripture, as I promis'd, and do begin with St. <hi>Peter</hi> his change of name, which was firſt <hi>Simon.</hi>
+            </p>
+            <p>Read, I beſeech you without your Spectacles of ſelfiſhneſs and intereſt all the following Proofs drawn out of your own Bible, and begin with the 16th. <hi>Chap.</hi> of St. <hi>Matth.</hi> 17, <hi>&amp;</hi> 18th. <hi>Verſ.</hi> And there you will find Jeſus Chriſt ordaining St. <hi>Peter</hi> Spiritual Head of his Church: Firſt he gives him his bleſſing, and calls him by his proper name (<hi>bleſſed art thou</hi> Simon Barjona, <hi>for Fleſh and Blood have not reveal'd it unto thee</hi>) You ſee then how he purifies him from Fleſh and Blood, and conſequently ſpiritualizes him. In the Verſe follow<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:104684:12"/>
+he changes his Name in ſaying, (<hi>And I ſay unto thee, that thou art</hi> Peter, <hi>and upon this Rock, I will build my Church, and the Gates of Hell ſhall not prevail againſt it;</hi>) What can be more formally poſitive for St. <hi>Peters</hi> Spiritual Supremacy, and for that of his Suc<g ref="char:EOLhyphen"/>ceſſors, than this? But I will give your Lordſhip yet the trouble to ſee more Proofs out of your own Bible for this Spiritual Supremacy; and I defie all the World to ſhew me as much as one paſſage out of Scripture that ſhall be formally poſitive to the contrary: I ſay the ſame of all other Controvertable Points. But to come to my purpoſe, I deſire you to read the 22th. Chapter of St. <hi>Luke</hi> 31, <hi>&amp;</hi> 32th. <hi>Verſ.</hi> (Simon <hi>behold Satan hath deſired to have you, that he may ſift you as Wheat, but I have prayed for thee, ut non deficiat fides tua.</hi>) Remark that Satan deſir'd to ſift all the Apoſtles, but we ſee that Jeſus Chriſt did Pray here for St. <hi>Peter</hi> only: <hi>Rogavi pro te, Petre, that his Faith may not fail:</hi> Wherefore according to the words of your own Bible St. <hi>Peters</hi> Supremacy remains yet in his Succeſſors, and ſhall do to the Worlds end: <hi>
+                  <g ref="char:V">Ʋ</g>t fides tua non deficiat.</hi> What ſayeth St. <hi>Matthew</hi> concerning the Infallibity of this Spiritual Supremacy: It is in the 23th. <hi>Chap.</hi> 2 <hi>Verſ. (The Scribes and Phariſees ſit on</hi> Moſes's <hi>ſeat, all therefore they bid you obſerve, that obſerve and do)</hi> how cou'd Chriſt bid the <hi>Jews</hi> obſerve and do all that he ſhould bid by thoſe, that ſate in <hi>Moſes</hi> Chair, if they could err? And why ſhould not we conclude, that Chriſt hath no leſs preſerved the Truth of Chriſtian Religion in the Chair of St. <hi>Peter,</hi> which is in the New and not in the Typick Law? Therefore the power St. <hi>Peter</hi> received once for himſelf and his Succeſſors did never fail, nor ever ſhall. St. <hi>John</hi> in the 11th. <hi>Chap.</hi> of his
+<pb n="7" facs="tcp:104684:12"/>
+Goſpel and 51 <hi>Verſ.</hi> Speaking of <hi>Caiaphas</hi> the High Prieſt ſays much to this very purpoſe, <hi>(And this he ſpake, not of himſelf, but being High Priest that year, he propheſied that Jeſus ſhould die for that Nation)</hi> Will your Lordſhip be pleaſed to obſerve how in that moſt wicked time of the Synagogue, ſpeaking out of that Chair, which Chriſt commanded to be obeyed, they anſwer truly in matters of Faith, and their chief Pa<g ref="char:EOLhyphen"/>ſtors Propheſie, and why? Becauſe Chriſt commanded that Chair to be obeyed: and did not he command the Church built upon the Rock to be obeyed alſo: Wit<g ref="char:EOLhyphen"/>neſs theſe words of St. <hi>Matth.</hi> 18th. <hi>Chap.</hi> 17th. <hi>Verſ. (And if he neglect to hear the Church, let him be unto thee as a Heathen man, and a Publican.)</hi> Whence it is to be gathered, that the Church of Chriſt cannot err in her ſpiritual Juriſdiction. (<hi>rogavi pro te</hi> Petre, <hi>ut non defi<g ref="char:EOLhyphen"/>ciat fides tua.</hi>) As for my part, I will never allow that Church to be the Church of Chriſt, that owns her ſelf fallible; and this I am ready to Sign and Seal with the laſt drop of my Blood. The <hi>Proteſtant Church</hi> did, and does ſtill own her ſelf fallible; therefore it cannot be the Church eſtabliſh'd by Chriſt on the Rock.</p>
+            <p>This ſhou'd be enough to oblige your Lordſhip to make it your ſole buſineſs to find out truth, and em<g ref="char:EOLhyphen"/>brace it; there is none that values his Eternal Felicity, but will think it well worth his while, it being that on<g ref="char:EOLhyphen"/>ly; <hi>unum neceſſarium,</hi> ſo much recommended by our Sa<g ref="char:EOLhyphen"/>viour in his Goſpel.</p>
+            <p>But all this, my Lord, might be anſwer'd much brei<g ref="char:EOLhyphen"/>fer in ſaying your Lordſhip miſtook hugely in the Su<g ref="char:EOLhyphen"/>premacy the Proteſtants of <hi>England</hi> give their King, which you ſaid to be only civil and politick, as that of King <hi>Saul</hi> in the Jewiſh Church.</p>
+            <p>
+               <pb n="8" facs="tcp:104684:13"/>Read, if you be pleaſed, the Oath of Supremacy, and you will find, that the King is made in effect, what the Popes pretended to have been heretofore in this Realm: The Popes never pretended any civil or tem<g ref="char:EOLhyphen"/>poral Juriſdiction in <hi>England,</hi> but a Spiritual one only; which is the very Juriſdiction King <hi>Henry</hi> the Eighth ſuper-added to his Temporal Power, which was never done by any Chriſtian King in <hi>England</hi> before, nor elſe<g ref="char:EOLhyphen"/>where, that ever I heard or read of. Your Lordſhip there<g ref="char:EOLhyphen"/>fore muſt allow a ſpiritual Supremacy in the King, it is the only genuine ſenſe it can have, and not at all to be contradicted. For alas! If Supremacy were nothing, then to own a Supream politick or civil Power in the King, there is no <hi>Roman</hi> Catholick this day in his Dominions, that wou'd looſe any preferment either ſpiritual or civil on that accompt: For we are not ſuch fools, as to expoſe our ſelves to ſuffer ſo many rude perſecutions, and undergo the loſs of ſo many conſiderable imploy<g ref="char:EOLhyphen"/>ments of both kinds for not taking the Oath of the Kings being Supream Politick and Civil Head of the Churches of all his Realms. That I am very free to take my ſelf tomorrow, if I cou'd but ſhare with your Lordſhip in the fat of your double Benefice. Nay, without any <hi>Spes lucri,</hi> I ſwear, with all my heart, that I know no other Supream Politick or Temporal Power in all his moſt Sacred Majeſties Dominions, but what is in his Royal Perſon alone; and do beſeech God Almighty to bleſs and preſerve Great <hi>James</hi> our Sovereign King, Lord and Maſter on the Throne of his Royal Anceſtors, till he ſees his Subjects in general, and each individual perſon of them ſwear and proteſt the ſame, and main<g ref="char:EOLhyphen"/>tain to the loſs of their Lives and Fortunes, that true Allegiance due by the Laws of God and Nature to his
+<pb n="9" facs="tcp:104684:13"/>
+moſt Sacred Majeſties Civil and Politick Supremacy <hi>(obedite prepoſitis veſtris.)</hi> And ſo in paying to <hi>Caeſar</hi> what is due to <hi>Caeſar,</hi> they'll pay to God alſo his own due. This is enough for that Point of your Sermon; let us come now to the Controverſie of the laſt Part, which was with much vehemency againſt the Real Preſence; I thought indeed that matter had but little or no relation at all with the words of your Text <hi>(God is gone up with a ſhout, the Lord with the ſound of a Trumpet,)</hi> But your Lordſhip knows beſt your own Rea<g ref="char:EOLhyphen"/>ſons, which I leave to your ſelf, and come to my Matter, which is to refute your Objections, and ex<g ref="char:EOLhyphen"/>plain the <hi>Roman Catholick</hi> Doctrine concerning the Real Preſence, ſeeing you wedged that Myſtery into your Diſcourſe without any relation to your purpoſe. I did no ſooner hear your ſolemn proteſtation againſt this holy Sacrament, then immediately I ſuppoſed you were an <hi>Abjurator</hi> ready to ſwear point-blank that Chriſts moſt ſacred Humanity is not really and ſub<g ref="char:EOLhyphen"/>ſtantially on our Altars in Vertue of the Sacramental words: For I ſaw you exhorted with paſſion your <hi>Peo<g ref="char:EOLhyphen"/>ple not to be tottered by every blaſt of wind, that ſhall ſay Christ is on this Altar, or Chriſt is on that Altar, for Christ is actually in Heaven, and ſhall continue there till he comes to judge at the end of the World.</hi> As for this Point, I anſwer firſt, that if your Lordſhip means to perſwade your poor People, that he is not really preſent on your own Communion Tables, you may ſwear it confidently, and ſo may I too; for I own no power in you to bring him, nor intention to make uſe of any power to poſſeſs his moſt ſa<g ref="char:EOLhyphen"/>cred Humanity really in your Communion Bread; And it is our <hi>Roman Catholick</hi> Doctrine, that with<g ref="char:EOLhyphen"/>out
+<pb n="10" facs="tcp:104684:14"/>
+characterical power, and lawful intention he can<g ref="char:EOLhyphen"/>not be really preſent on our Altars, and much leſs on your Tables, ſeeing you renounce all ſuch power, and intention. But to ſay and ſwear his real Pre<g ref="char:EOLhyphen"/>ſence not to be on our Altars after Conſecration done by a lawful Prieſt legally intentioned, is the greateſt fit of raſhneſs in nature, for none can ſay it with truth, nor ſwear it without a moſt ſacrilegious Perjury; and that according to your own Rule of Faith, which is <hi>Scripture expounded by every individual perſon of ſound judgement.</hi>
+            </p>
+            <p>There is nothing more raſh, nor that can come nearer madneſs, then to ſay, there is none of found Judgement, nor ever has been amongſt ſo many Learned and Eminent <hi>Roman</hi> Catholick Doctors, who are, and have been ready at all hours to main<g ref="char:EOLhyphen"/>tain that moſt holy Myſtery to the effuſion of the laſt drop of their Blood, as many have done, rather then forſwear themſelves in denying the moſt poſitive Article of Faith, we have in Scripture. And no Pro<g ref="char:EOLhyphen"/>teſtant ought to find fault with this Doctrine, ſeeing their Judgements give them, that they can moſt fa<g ref="char:EOLhyphen"/>vourably expound Scripture for the myſtery of the Real Preſence: as you will ſee by ſo many poſitive Proofs drawn out of the Goſpel.</p>
+            <p>But I wou'd fain know firſt what you are at con<g ref="char:EOLhyphen"/>cerning this Myſtery. I am miſtaken, if you did not intend to perſwade your People that <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> pretend to have Power by vertue of the Sacra<g ref="char:EOLhyphen"/>mental Words to bring down Chriſt Jeſus his moſt Sacred Humanity on their reſpective Altars, and rob the Saints in Heaven of the beatifical ſight of that Sa<g ref="char:EOLhyphen"/>cred Pledge, in which conſiſts the plenitude of their
+<pb n="11" facs="tcp:104684:14"/>
+Eternal Joy and Happineſs: For you exhorted your Auditory with ſuch eagerneſs to ſtick to their Princi<g ref="char:EOLhyphen"/>ples, <hi>and not to be tottered here and there,</hi> that really I thought you were miſtaken in our <hi>Doctrine of Tran<g ref="char:EOLhyphen"/>ſubſtantiation,</hi> or elſe that you were not at all ſincere in omitting to expound candedly our Senſe thereof to your People. For if your Lordſhip teach them that We deprive Heaven of that moſt ſacred Humanity whilſt it continues on our Altars, you impoſe moſt groſsly on us, and keep your Flock wilfully in igno<g ref="char:EOLhyphen"/>rance, For that was never our Opinion: We ſay, and teach that he is at the ſelf-ſame time in Heaven, and on our Altars, becauſe the Omnipotent Word of God makes uſe of his abſolute Power to re-produce him<g ref="char:EOLhyphen"/>ſelf truly and really God, and Man under the acci<g ref="char:EOLhyphen"/>dents of Bread and Wine, nothing of either former Subſtances remaining, and this change of Subſtance is call'd by the <hi>Roman</hi> Catholick Church, <hi>Tranſubſtan<g ref="char:EOLhyphen"/>tiation</hi>) that is to ſay, <q>A total Change of the ſub<g ref="char:EOLhyphen"/>ſtance of the Bread to that of the Body, and of the ſubſtance of the Wine to that of the moſt pre<g ref="char:EOLhyphen"/>cious Blood of Jeſus Chriſt:</q> and this is what we call <hi>Tranſubſtantiation.</hi>
+            </p>
+            <p>And <hi>John Calvin</hi> himſelf had not the face to deny this to Gods abſolute Power, to whom ſin only is impoſſible. And Jeſus Chriſt ſays abſolutely he does change it by virtue of theſe holy words (<hi>Hoc eſt cor<g ref="char:EOLhyphen"/>pus meum,</hi> &amp;c.) for if he has changed the ſubſtance of Water to that of Wine, and multiplied five ſmall Loaves to the moſt plentiful ſaturity of five thouſand men, (Water and Bread being purely material) who can deny, but he can do the like to his own moſt ſa<g ref="char:EOLhyphen"/>cred Body, being in the actual poſſeſſion of all the
+<pb n="12" facs="tcp:104684:15"/>
+qualities due to a glorious Spirit, <hi>viz. Agility, Sub<g ref="char:EOLhyphen"/>tility, Clarity,</hi> and <hi>Impaſſibility.</hi> Do not, I pray fool your poor People any more with the feigned impoſſi<g ref="char:EOLhyphen"/>bility of believing, that ſo proper a Man as Jeſus Chriſt is, or can be in a little Wafer. Speak, my Lord, like a Chriſtian Scholar, and own that theſe four glorious qualities juſt now mention'd do diſpenſe with the Body of Chriſts local poſſeſſing of a place <hi>cum ex<g ref="char:EOLhyphen"/>tenſione partium ſupra partes:</hi> It is true, that living as a Mortal man on Earth, he took his dimenſions corporally as other Mortal men do, tho' then it ſelf he might have done it Spiritually as often as he pleaſed, which was once only, <hi>viz. pridie quam pa<g ref="char:EOLhyphen"/>teretur,</hi> that is, the day before he ſuffered. You muſt therefore confeſs under pain of Eternal Dam<g ref="char:EOLhyphen"/>nation, that our ſweet Redeemers Body is no more ſubject to time or place. Who is't that can deny to the glorious Body of our Saviour Chriſt what St. <hi>Paul</hi> allows after the day of Judgement to the Bodies of all Souls juſtified by ſanctifying Grace? Here are his words <hi>(Seminatur corpus animale, ſurget ſpirituale, &amp;c.)</hi> Hence a Chriſtian Poet took occaſion to ſay:
+<q>
+                  <l>Clari, ſubtiles, agiles, impaſſibileſque</l>
+                  <l>Omnes quadruplici pollebunt dote beati. viz.</l>
+               </q>
+Clarity, Subtility, Agility, and Impaſſibility ſhall be the four Gifts of beatified Bodies.</p>
+            <p>And if it be of Faith that all glorified Bodies ſhall enjoy theſe Priviledges, when Doom is over, who can deny it now to the moſt glorious Body of Jeſus Chriſt? He ſays it <hi>(Hoc est corpus meum) This is my Body, &amp;c.</hi> And who ſhall find in his heart to ſay no? You'll alledge, my Lord, that the Myſtery cannot be comprehended; it is true, and why? Becauſe it is in<g ref="char:EOLhyphen"/>comprehenſible,
+<pb n="13" facs="tcp:104684:15"/>
+as all the reſt of the Myſteries of our Faith: But this Myſtery is called <hi>Antonomaſtice My<g ref="char:EOLhyphen"/>sterium Fidei,</hi> that is, the Myſtery of <hi>Faith</hi> by excellen<g ref="char:EOLhyphen"/>cy. You will ſay, my Lord, you cannot comprehend it, pray tell me whether you can comprehend the Myſte<g ref="char:EOLhyphen"/>ry of the moſt holy <hi>Trinity,</hi> the word <hi>Trinity</hi> being no more in Scripture, than the word <hi>Tranſubſtantiation,</hi> and what is the reaſon you do not give credit as well to This, as to That? You have the ſelf-ſame au<g ref="char:EOLhyphen"/>thority for both, which is that of the Church. Are not there a thouſand little bagatels in Nature you cannot comprehend, <hi>viz.</hi> The Ebbing and Flowing of the Seas, the regular Fits of Agues, the occult Ver<g ref="char:EOLhyphen"/>tue of the Sun giving real Life to Inſects, and co<g ref="char:EOLhyphen"/>operating vertually to the Life of all other Sublanary Creatures, whether Vegitatively or Senſibly Living, and many other ſuch examples in nature obvious e<g ref="char:EOLhyphen"/>nough to our Senſes, but incomprehenſible to our un<g ref="char:EOLhyphen"/>derſtandings: and ſhoul'd not this be more then a ſuffi<g ref="char:EOLhyphen"/>cient argument to captivate our underſtandings in <hi>ob<g ref="char:EOLhyphen"/>ſequium fidei.</hi>
+            </p>
+            <p>This is not, my Lord, to totter the People with every blaſte of Wind, ſaying, <hi>Chriſt is here,</hi> or <hi>Chriſt is there;</hi> that is to be underſtood not of <hi>Chriſtians,</hi> but of the <hi>Jews,</hi> who after long expecting the <hi>Meſſias,</hi> will at laſt feign he is here, and he is there, being weary of his tedious delay. But Jeſus Chriſt himſelf gave this warning to the Chriſtians, that will live in thoſe days, to the end that they may not be tot<g ref="char:EOLhyphen"/>tered by every blaſte of Wind, that ſhall ſay he is on this Altar, or on that Altar. We teach, my Lord, the Doctrine Jeſus Chriſt left to his Apoſtles. And his Apoſtles by Succeſſion to Poſterity, and
+<pb n="14" facs="tcp:104684:16"/>
+which ſhall continue in the Church of God to the Worlds End. It is the unqueſtionable Doctrine of Chriſt preach'd by his Apoſtles and their Succeſſours in all Ages: And your Doctrine is queſtionable to every body, even to your ſelves; for you do not know the way or manner Chriſt is in your Sacra<g ref="char:EOLhyphen"/>ment, as I will inſtance out of your own Catechiſm before I end. But I prove now that you taught in that <hi>Aſcenſion</hi> Sermon a Doctrine quite repugnant to your own <hi>Bible:</hi> Here are the words of St. <hi>Luke</hi> 22th. <hi>Chap.</hi> 19th. <hi>Verſ. (This is my Body, which is given for you.)</hi> What can be more plain? Notwithſtanding your Lordſhip muſt needs maintain, that what Chriſt gave, and his Apoſtles receiv'd, was nothing elſe but Bread and Wine. Do you pretend to know Chriſts meaning better than himſelf? Is not this quite contra<g ref="char:EOLhyphen"/>ry to the great longing he had to eat this <hi>Paſs-over</hi> with his Diſciples, <hi>(Defiderio deſideravi hoc paſca manducare vobiſcum,)</hi> Luke 22th. Chap. 15th. Verſ. <hi>With deſire I have deſired to eat this Paſs-over with you, before I ſuffer.</hi> Now to refer theſe words to a figurative eating only by Faith, were moſt abſurd; for we cannot ſay that Jeſus Chriſt cou'd eat himſelf by Faith, ſince all the Schools of Divinity forbid us to admit Faith in the Son of God, who is, and al<g ref="char:EOLhyphen"/>ways has been in the full poſſeſſion of all the Ob<g ref="char:EOLhyphen"/>jects of Divine Faith, and that by Vertue of his Hy<g ref="char:EOLhyphen"/>poſtatical Union: We muſt therefore own, and con<g ref="char:EOLhyphen"/>feſs, that what our Saviour deſir'd ſo vehemently to eat with his Diſciples before he ſuffer'd, was truly, really, and ſubſtantially his moſt Sacred Body.</p>
+            <p>But for further proof of this verity, go to the 6th. <hi>Chap.</hi> of St. <hi>Johns</hi> Goſpel, and read it all over
+<pb n="15" facs="tcp:104684:16"/>
+with attention, and there you ſhall find nothing more plainly proved, then the <hi>Real Preſence:</hi> But when you come to the 52th. <hi>Verſe</hi> thereof I beg of you to read it leaſurely: here be the words of that Verſe: <hi>I am the living Bread, which came down from Heaven, if any man eat of this Bread, he ſhall live for ever: and the Bread, that I will give is my Fleſh, which I give for the Life of the World.</hi> What can be more poſitive for our purpoſe? Yet <hi>Beza</hi> had the impudence to tranſlate moſt perfidiouſly (Life giving Bread) inſtead of Living Bread, but in this he was moſt abſurdly perfi<g ref="char:EOLhyphen"/>dious, for the Sun is Life giving, tho' not living: and being granted that this Bread is living, it muſt of neceſſity be Jeſus Chriſts own precious Body. St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 10. <hi>v.</hi> 16. Proves it poſitively as ap<g ref="char:EOLhyphen"/>pears by the following words <hi>(The Cup of Bleſſing, which we bleſs, is it not the Communion of the Blood of Chriſt? The Bread, which we break is it not the Com<g ref="char:EOLhyphen"/>munion of the Body of Christ?)</hi> And 1 <hi>Cor.</hi> 12. <hi>v.</hi> 29. <hi>(for he that eateth and drinketh unworthily, eateth and drinketh damnation to himſelf not diſcerning the Lords Body.)</hi> There is none (if he be not wilfully blind) but may ſee out of both theſe paſſages, and out of many more, that before Jeſus Chriſt gave this Sacra<g ref="char:EOLhyphen"/>ment to his Apoſtles, at the actual giving it them, and after he had given it them, and they to others, both Chriſt and his Apoſtles call it Fleſh and Blood, Chriſt ſayeth: <hi>(This is my Fleſh, this is my Blood.)</hi> And the Apoſtles name it, <hi>Corpus Domini,</hi> the Lords Body.</p>
+            <p>Now, my Lord, I will urge one inſtance more againſt your Communion by Faith only, and thus I proceed: either your Lordſhips Soul in your actual
+<pb n="16" facs="tcp:104684:17"/>
+Communion aſcendeth to Heaven, there to feed on Chriſt by Faith, or elſe Chriſt deſcendeth to feed your Soul. What to this, my Lord? You cannot allow the firſt, for ſo your unglorified Soul ſhould be in two places at once, which you deny even to the very glorified Soul and Body of Chriſt. You do not allow the ſecond, for ſo Chriſt ſhou'd be in two places at once, and if in two, why not in an hun<g ref="char:EOLhyphen"/>dred, and an hundred thouſand? For the one is no more difficult to Gods abſolute Power then the other: This you do not allow, for once granted, the reſt cou'd not be denied. I wou'd fain then know what you are at in your Sacramental Communion, for I do not find any third way your Lordſhip can feed in truth and really on Chriſts Body in your Sa<g ref="char:EOLhyphen"/>crament, nay I am ſure you never found it out yet your ſelf, nor ever ſhall. Now I ſee you muſt own you cannot well tell the way or manner how your Soul feeds on Chriſts moſt Sacred Body in the Sacrament: You eat him then <hi>(non dijudicans Corpus Domini)</hi> viz. <hi>Not diſcerning the Lords Body.</hi> Pray then read your own judgement in St. <hi>Paul,</hi> 1 Cor. 22. <hi>judicium ſibi manducat &amp; bibit.) He eats and drinks his own judgement.</hi> I ſhall beg of your Lordſhip once more to deal ſincerely and tell me your own opinion of the Proteſtant Communion. I know full well what you ſay in the expoſition of your Catechiſm Print<g ref="char:EOLhyphen"/>ed for <hi>Charles Brome, anno</hi> 1686. That I know, and will ſoon bring down your very words, which are quite oppoſited to what I heard you Preach the laſt <hi>Aſcention-Day.</hi> But tell me once more I pray your meaning in this particular: For my part I want day to find you out, for I ſee your Sermon contradicts your
+<pb n="17" facs="tcp:104684:17"/>
+Writings, <hi>non es ergo tibi conſtans, i. e.</hi> you are not conſtant to your ſelf: For now you receive Chriſts Fleſh and Blood virtually, now Figuratively; another time ſpiritually by Faith, and in Expoſition of your Catechiſm you contradict all, that in teaching the Body and Blood of Jeſus Chriſt to be <hi>verily and in<g ref="char:EOLhyphen"/>deed taken</hi> by the Faithful in our Lords Supper; Here are your own words, <hi>Pag.</hi> 75. <hi>Glory be to thee, O adorable Jeſus, who under the outward and viſible part, the Bread and Wine, things obvious and eaſily prepared, both which thou haſt commanded to be recei<g ref="char:EOLhyphen"/>ved, doſt communicate to our Souls, the Mystery of Di<g ref="char:EOLhyphen"/>vine Love, the inward and inviſible Grace, thy own moſt bleſſed Body and Blood, which are verily and in<g ref="char:EOLhyphen"/>deed taken, and received by the Faithful in thy Supper, for which all Love, all Glory be to thee.</hi>
+            </p>
+            <p>Theſe are your own words, my Lord, Catholick e<g ref="char:EOLhyphen"/>nough on the Paper, but quite contrary to what you teach in the Pulpit, for there you ſay <hi>That the Body and Blood of Jeſus Christ is verily and indeed taken by the Faithful,</hi> and here you ſay not at all, but ſometimes one way, and ſometimes another, ſpiri<g ref="char:EOLhyphen"/>ritually to day, by Faith only; and virtually to morrow, and in your Catechiſm you write <hi>(indeed and verily.)</hi> So that I cannot compare your Opinion of this Myſtery better, then to what <hi>White</hi> of <hi>Lin<g ref="char:EOLhyphen"/>coln</hi> chargeth Biſhop <hi>Ridley</hi> with concerning the deſtruction of <hi>Altars,</hi> and the Erecting of Commu<g ref="char:EOLhyphen"/>nion Tables in the beginning of the Reformation: You will find it in Doctor <hi>Heylins</hi> Hiſtory, the 5th. year of King <hi>Edward</hi> the 6ths. Reign, <hi>Pag.</hi> 106. Here are the words (<hi>That when their Table was Constitu<g ref="char:EOLhyphen"/>ted, they could never be content in placing the ſame,
+<pb n="18" facs="tcp:104684:18"/>
+now</hi> Eaſt, <hi>now</hi> North; <hi>now one way, now another, un<g ref="char:EOLhyphen"/>til it pleaſed God of his goodneſs to place it quite out of the Church.</hi>) So much out of <hi>Heylin.</hi>
+            </p>
+            <p>I ſay the ſame of your Lordſhips placing the Body and Blood of Chriſt in the Sacrament, now Virtually, now Figuratively, now Spiritually, now by Faith on<g ref="char:EOLhyphen"/>ly, and in your Catechiſm verily and indeed, until at laſt it pleaſed God of his goodneſs to place him<g ref="char:EOLhyphen"/>ſelf quite out of your Sacrament. Diſprove this pari<g ref="char:EOLhyphen"/>ty, if you can.</p>
+            <p>In fine, I remember your Lordſhip proteſted migh<g ref="char:EOLhyphen"/>tily againſt <hi>Roman Catholicks,</hi> for Coining, and Forge<g ref="char:EOLhyphen"/>ing new Articles of Faith, as well in relation to Tranſubſtantiation, as to ſpiritual Supremacy, <hi>&amp;c.</hi> You ought to know, my Lord, that there is no Church on Earth, that proteſts more againſt Innovations in matters of Faith, Manners, and Religious Ceremo<g ref="char:EOLhyphen"/>nies, than the <hi>Roman Catholick Church.</hi> As to what belongs to Faith, we ſay, write, and teach publick<g ref="char:EOLhyphen"/>ly, that all Articles of Faith are in themſelves un-alte<g ref="char:EOLhyphen"/>rable, being they are Eternal Verities, whoſe Objects are eternally true, <hi>Omnes articuli fidei ſunt immu<g ref="char:EOLhyphen"/>tabiles, eo quod objecta eorum ſint eternae veritatis.</hi>
+            </p>
+            <p>Nay, we ſay, and ſolemnly proteſt that St. <hi>Peter</hi> with all his Succeſſors together (if you will) in one Chapter cannot alter, and much leſs make one only Article of Faith, they all being eternal verities be<g ref="char:EOLhyphen"/>longing ſolely to Gods immediate Revelation. It is true, the Church can declare what is of Faith, to be of Faith, and what is not of Faith, not to be of Faith: And this is all the Church of <hi>Rome</hi> pretends to in the Deciſion of matters of Faith. So much in anſwer to your Lordſhips vehemency againſt Coiners of new
+<pb n="19" facs="tcp:104684:18"/>
+Articles of Faith. Find them out, and our Church will condemn 'em with much more Authority than your Lordſhip, who ought rather to charge your own Church with that errour (witneſs your 39 Articles) than ours. This is the ſubſtance, my Lord, of all the convertible Points I took notice of in your laſt <hi>Aſcention</hi> Sermon: and unleſs I be much miſtaken that days controverſie was in order to take away all ſuſpicion of your be<g ref="char:EOLhyphen"/>ing <hi>Roman</hi> Cotholickly inclined: For your Lordſhip living (as <hi>Seneca</hi> ſaith) <hi>ſine impedimento,</hi> that is to ſay, without a Wife, and having the reputation of one that lives morally well, which is enough for the Rab<g ref="char:EOLhyphen"/>ble to ſay you are Popiſhly affected, you undertook that days work to take away the ſcandal, which had no other ground than your good Works; thank then, my Lord, your own Church for this abuſe, which pro<g ref="char:EOLhyphen"/>ceeds from that unhappy Merit-killing Doctrine, which prives out of your Schools all good Works, and Me<g ref="char:EOLhyphen"/>ritorious actions.</p>
+            <p>To this purpoſe I remember the <hi>Friday</hi> following, your Lordſhip us'd all means in your inſtruction of Faith to perſwade your Auditors, that <hi>Abrahams</hi> Ju<g ref="char:EOLhyphen"/>ſtification was for his Faith, and not for his good Works: All your Proof was, becauſe <hi>Abraham</hi> belie<g ref="char:EOLhyphen"/>ved before he was circumciſed: a very weak, or ra<g ref="char:EOLhyphen"/>ther no argument indeed; <hi>quaſi vero,</hi> that all <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> good Works were only comprehended in his circumciſion. Pray tell me now if you have this poſi<g ref="char:EOLhyphen"/>tively in Scripture? You can never do it, my Lord, but you will find the contrary in poſitive Terms both in the <hi>New</hi> and <hi>Old Teſtament.</hi> What ſhall be the final Judgement of Predeſtination, and Reproba<g ref="char:EOLhyphen"/>tion? Shall it not be for Doing, or not doing good
+<pb n="20" facs="tcp:104684:19"/>
+Works; Witneſs the very words of our laſt Sentence recorded in the Goſpel, <hi>venite Benedicti patis mei, eſurivi enim, &amp; dediſtis mihi manducare,</hi> &amp;c. <hi>Come ye bleſſed of my Father,</hi> &amp;c. <hi>I was hungry, and you gave me to eat,</hi> &amp;c. And the other Sentence ſhall be moſt terribly terrible againſt the Reprobate for want of good Works: <hi>Ite maledicti in ignem Aeternum,</hi> &amp;c. <hi>Go ye curſed to the everlaſting Fire,</hi> &amp;c. And why? <hi>Eſurivi enim, &amp; non dediſti mihi manducare,</hi> &amp;c. <hi>Be<g ref="char:EOLhyphen"/>cauſe I was hungry, and you did not feed me, &amp;c.</hi> I will content my ſelf now with one Proof out of the <hi>Old Teſtament,</hi> it is in the 30th. <hi>Chapter</hi> of <hi>Deuteronomy</hi> 19 <hi>verſe, I call Heaven and Earth to record this day againſt you, that I have ſet before you Life and Death, Bleſſing and Curſing, therefore chooſe Life, that thou and thy ſeed may Live.</hi> How cou'd God Almighty call Heaven and Earth to Judge them, if he had not en<g ref="char:EOLhyphen"/>dowed them with <hi>Free Will?</hi> for you cannot Lawfully hang a Cripple for not running, nor a Man Born Blind for not Reading: You muſt make God then far more cruel than Man, if he damns for not doing Good Works, you ſuppoſing he deprives him of Free-will, which is the Doctrine of our pretended Reformers, who attribute all to Faith, and nothing to Merit. As for your Lordſhip, I think I cannot deal fairer with you, then to remit you to the Weſtern Window of that Cathedral, wherein I heard you Preach, and there you will find in Capital Letters, your own Judgement drawn out of the 2d. <hi>Chapter</hi> of St. <hi>James, v.</hi> 26. <hi>For as the Body without the Spirit is Dead, ſo Faith without good Works is Dead alſo.</hi>
+            </p>
+            <p>This is all I have to ſay againſt thoſe two Sermons I heard your Lordſhip Preach; now I beſeech the Al<g ref="char:EOLhyphen"/>mighty
+<pb n="21" facs="tcp:104684:19"/>
+God, that you may rather ſoon, then late, make it your main Concern to find out Truth, and for this purpoſe you muſt invoke faithfully and fervently, the Holy Ghoſt to Englighten your underſtanding, that you may ſee your errour, and enflame your will to embrace truth, and return ſpeedily to the boſome of Chriſts only ſaving Church on Earth; and then you will have the Sign of the Holy Croſs in Veneration, you will make uſe of it in the beginning of all your undertakings. You will own out of the words of God himſelf a Viſible, Spiritual, Supream Head of his Church on Earth; and that the Sacrament of the Altar cannot be a Sacrament according to the Inſtitution thereof, if Chriſts moſt Sacred Humanity be not there ſubſtantially and really preſent. And finally you will confeſs that Free-will and Meritorious Actions are abſo<g ref="char:EOLhyphen"/>lutely neceſſary for Salvation. Recant timely, <hi>my Lord,</hi> otherwiſe it is much to be fear'd that this juſt Judgment ſhall ſurprize you <hi>(ignorans ignorabitur)</hi> Do what lyes in you, and God will never refuſe his helping hand: It is a Principle with us in Divinity, that <hi>facienti quod in ſe eſt Deus non denegat Gratiam,</hi> Do it again I ſay, with all the ſpeed poſſible; for S. <hi>Ambroſe</hi> aſſures us that the Holy Ghoſt doth not Love to be put off, <hi>Neſcit tarda Molimina Spiritus Sancti Gratia. Tertulian</hi> ſays, <hi>Chri<g ref="char:EOLhyphen"/>ſtiano Chriſtianum non eſt,</hi> a Chriſtian has no to Morrow, but will ſay with the Royal Prophet, <hi>ecce nunc coepi.</hi> Your Lordſhip will Pardon me, I hope, for ex<g ref="char:EOLhyphen"/>horting you to mind your Salvation timely, having no other Intereſt in your Converſion, but the Glory of God and the good of your Soul. But if you ſhut your ears to this ſpiritual Admoniſhment, I call God to Wit<g ref="char:EOLhyphen"/>neſs, that there is not a Tittle in this ſilly Scroul, but
+<pb n="22" facs="tcp:104684:20"/>
+ſhall ariſe in Judgement againſt you: I am but a poor Begger I own, nay a Begger indeed, that begs his bread daily, and feeds only on the Charitable Benevo<g ref="char:EOLhyphen"/>lence of Chriſtians, and will do ſo while I live in pleaſe God, for I can never aſpire higher; but do not deſpiſe the words of the little ones, <hi>quia infirma mundi elegit Deus ut confundat fortia.</hi> I am the weakeſt of all men I con<g ref="char:EOLhyphen"/>feſs, <hi>in utroque homine,</hi> yet my poor Prayers ſhall be for your Lordſhips ſpeedy Converſion to the greater Glory of God, to your own Eternal Felicity, to the great Joy of all the Angels and Saints of Heaven, to the publick Edification of your fellow Subjects, to the Converſion of Thouſands of your poor ſtragling Sheep, and periſhing Lambs; and finally to the unſpeakable comfort and ſatisfaction of <hi>My Lord,</hi> Your moſt humble Servant and Well-wiſher in Soul and Body, <hi>F. J. R.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104684:20"/>
+            <head>Books Printed and ſold by <hi>Nathaniel Thompſon,</hi> at the Entrance into the <hi>Old Spring-Garden</hi> near <hi>Charing-Croſs.</hi>
+            </head>
+            <p>A <hi>Manual</hi> of Controverſies, clearly demonſtrating the Truth of <hi>Catholick Religion,</hi> By <hi>Texts of Holy Scripture, Councils of all Ages, Fathers of the firſt</hi> 500 <hi>years, Common ſenſe and Reaſon.</hi> And fully Anſwering the principal Objections of <hi>Proteſtants,</hi> and all other <hi>Sectaries.</hi> Price bound 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d</hi>
+               </abbr>
+            </p>
+            <p>A <hi>Manual</hi> of Devout Prayers, Fitted for all Perſons and Occaſions. To which is added the <hi>Roſary, Latine</hi> and <hi>Engliſh,</hi> Prayers to the Bleſſed Virgin <hi>Mary, &amp;c.</hi> The Prayers of St. <hi>Bridget,</hi> and other moſt devout Prayers upon ſeveral occaſions, never before publiſhed. With a <hi>Catholick Calender</hi> for ever. Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>A moſt excellent way of hearing <hi>Maſs,</hi> with profit and Devotion; Containing the whole <hi>Maſs</hi> in <hi>Latine</hi> and <hi>Engliſh;</hi> with divers choice Select Prayers before and after <hi>Confeſſion</hi> and <hi>Communion:</hi> An an Examen of <hi>Conſcience.</hi> To which is added the <hi>Roſary</hi> of our Bleſſed Lady, <hi>Prayers</hi> to the Bleſſed Virgin <hi>Mary,</hi> the Prayers of St. <hi>Briget, &amp;c.</hi> And ſeveral other moſt Devout Prayers to our Bleſſed <hi>Redeemer.</hi> Alſo the <hi>Veſpers</hi> or <hi>Even-Song,</hi> in <hi>Latine</hi> and <hi>Engliſh,</hi> as it is Sung in all <hi>Catholick Churches.</hi> Newly Corrected. Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>A Collection of 86 <hi>Loyal Poems,</hi> all of them Written upon the two late <hi>Plots, viz.</hi> The horrid <hi>Salmanca Plot</hi> in 1678. and the real <hi>Fanatical Conſpiracy</hi> in 1683. To which is added <hi>Advice</hi> to the <hi>Carver,</hi> Written on the Death of the late Lord <hi>Stafford.</hi> With ſeveral <hi>Poems</hi> on their Majeſties <hi>Coronation;</hi> never be<g ref="char:EOLhyphen"/>fore Publiſhed. The ſecond Edition. Collected by <hi>N. T.</hi> Price Bound 2 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>A choice Collection of 180 Loyal Songs, all of them Written ſince the two late <hi>Plots, &amp;c.</hi> Intermixt with ſome new Love Songs. With a <hi>Table</hi> to find eve<g ref="char:EOLhyphen"/>ry Song. To which is added, the <hi>Muſical Notes</hi> to each Song. The Third Edi<g ref="char:EOLhyphen"/>tion with many Additions. Price 2. <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>The <hi>Lawyer Out-law'd;</hi> or a brief Anſwer to Mr. <hi>Hunt's</hi> Defence of the <hi>Charter.</hi> With ſome uſeful Remarks on the <hi>Commons</hi> proceedings in the laſt Parliament at <hi>Westminſter,</hi> in a Letter to a Friend. Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Janua Scientiarum;</hi> or, a Compendious Introduction to <hi>Geography, Chronology, Government, Hiſtory, Philoſophy;</hi> and all gentile ſorts of LITERATURE. Price Bound 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>The State of the Church Affairs in this Iſland of Great <hi>Britain,</hi> under the Go<g ref="char:EOLhyphen"/>vernment of the <hi>Romans</hi> and <hi>Britiſh</hi> Kings: Written by a Perſon of Quality: And publiſhed by Authority. Price 4 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>The Succeſſion of the Church and Sacraments, from <hi>Chriſt</hi> and his Apoſtles to the end of the World, cleared, and ſtated, according to the Ancient Doctrine of the <hi>Greek</hi> and <hi>Latine</hi> Churches. Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A brief Explanation of ſeveral Myſteries of the <hi>H. Maſs,</hi> and of the Actions of the Prieſt Celebrating: Very neceſſary for all <hi>Roman Catholicks,</hi> for the better
+<pb facs="tcp:104684:21"/>
+underſtanding thereof. Together with certain Reflections upon the Apoſtles Creed, touching the B. Sacrament; and alſo divers Meditations and Prayers both before and after Communion. Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Veritas Evangelica,</hi> or the <hi>Goſpel-Truth,</hi> aſſerted in Sixteen uſeful <hi>Queſtions,</hi> being ſeriouſly ſearched into, will open the way to find out aſſuredly the True and Saving Faith of Chriſt, which is but One, as the Apoſtle affirms; Eph. 4. <hi>One Lord, one Faith, one Baptiſm.</hi> Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>A Diſcourſe of <hi>Confeſſion</hi> to a Lawful <hi>Prieſt,</hi> wherein is Treated of the laſt Judgement; By <hi>Peter Manby,</hi> Dean of <hi>London-Derry</hi> in <hi>Ireland.</hi> Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>The Conſiderations which obliged <hi>Peter Manby</hi> Dean of <hi>London-Derry,</hi> to em<g ref="char:EOLhyphen"/>brace the <hi>Roman Catholick</hi> Religion. Humbly Dedicated to his Grace the Lord Primate of <hi>Ireland.</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>Some <hi>Queries</hi> to the Proteſtants conerning the <hi>Engliſh Reformation.</hi> By <hi>Peter Manby</hi> Dean of <hi>London-Dery</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>Popery</hi> Anatomiſed or the <hi>Papiſts</hi> cleared from the falſe Aſperſion of Idolatry. Price 4 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A <hi>Papiſt</hi> Miſrepreſented and Repreſented: Or a two-fold Character of Po<g ref="char:EOLhyphen"/>pery, <hi>&amp;c.</hi> Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Ordo Recitandi Officii pro Anno Dommini</hi> 1687. Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Net for the Fiſhers of Men; being the ſame which Chriſt gave to his Apoſtles; wherein the points controverted betwixt <hi>Catholicks</hi> and all <hi>Sectaries,</hi> are briefly vindicated by way of <hi>Dilemma:</hi> By two Gentlemen Converts. Price 4 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>An Explication of the Holy Ornaments and Ceremonies which the <hi>Prieſt</hi> uſes at <hi>Maſs.</hi> Price 2 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Sermon Preach'd before the King and Queen in their Majeſties Chappel at St. <hi>James,</hi> on Sunday, <hi>Octob.</hi> 24. 1686. By the Reverend Father <hi>Dom. W. Marſh,</hi> Monk of the Holy Order of St. <hi>Benedict:</hi> Chaplain in Ordinary to his Majeſty, Publiſhed by his Majeſties Command: price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Sermon Preach'd before their Majeſties in their Chappel at St. <hi>James</hi>'s the 25th. Sunday after <hi>Pentecoſt, Nov.</hi> 17. 1686. By <hi>John Dormer</hi> of the Society of <hi>Jeſus.</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Sermon Preach'd before their Majeſties in their Chappel at St. <hi>James</hi>'s the 2<abbr>
+                  <hi>d.</hi>
+               </abbr> Sunday in Advent: <hi>Dec.</hi> 6. 1686. By <hi>John Dormer</hi> of the Society of <hi>Jeſus.</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Sermon of Judgement Preach'd before the Queen <hi>Dowager</hi> in her Majeſties Chappel at <hi>Somerſet-Houſe,</hi> on the firſt Sunday in Advent, being the 25th. of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1686. By <hi>John Dormer</hi> of the Society of <hi>Jeſus.</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> all Publiſhed by his Majeſties Command.</p>
+            <p>A Sermon Preach'd before the King and Queen at their Chappel at St. <hi>James</hi>'s, on the Feaſt of the Holy Patriarch St. <hi>Bennet.</hi> By <hi>J. Croſs</hi> of the Holy Order of St. <hi>Francis.</hi>
+            </p>
+            <p>An Apology for the Contemplations on the Life and Glory of the Holy Mother of <hi>JESUS,</hi> ſhewing the Innocency, Equity, and antiquity of the Honour and Veneration given to Her by the Holy <hi>Catholick-Church. By J. C.</hi>
+            </p>
+            <p>A New <hi>Teſt</hi> of the Church of <hi>Englands Loyalty.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
